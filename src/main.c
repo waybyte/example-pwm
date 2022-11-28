@@ -137,7 +137,7 @@ int main(int argc, char *argv[])
 	 * Period 1s, freq - 1Hz
 	 * duty 200ms, 20%
 	 */
-	pwm_config(PWM_CH1, PWM1_PRD_1000MS, PWM1_DUTY_200MS);
+	pwm_config(PWM_CH1, PWM1_PRD_1000MS, PWM1_DUTY_203MS);
 	/* Start PWM channel 1 */
 	pwm_start(PWM_CH1);
 #endif
