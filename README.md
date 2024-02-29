@@ -1,4 +1,4 @@
-# Logicrom SDK - PWM Driver example
+# Logicrom OpenCPU SDK - PWM Driver example
 
 ## How to build
 
